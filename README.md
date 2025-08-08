@@ -5,6 +5,7 @@ Lyft 2018 company hackathon submission - recently just created this readme for e
 This is a mobile app that lets you visualize geospatial data in Augmented Reality off your phone camera. Load a dataset with latitudes/longitudes, and view your data overlayed on the real world. This works by accessing your phone's GPS, gyroscope, and compass, and using some simple physics based your viewing angle and distance from your data will properly render data points as shapes. You can color code shapes.
 
 The submission video shows a few examples of how on the ground ops personnel can use the tool to debug various pickup and drop off issues. Examples include viewing driver utilization status in a congested area near a stadium, and requested vs. actual pick up locations near a bike lane.
+<br/><br/>
 <img width="410" height="720" alt="AR data viz - thumb 2" src="https://github.com/user-attachments/assets/0d53f89c-a88c-4b07-837a-3b40aced74f4" />
 <img width="410" height="715" alt="AR data viz thumbnail" src="https://github.com/user-attachments/assets/6afe231c-a8cc-4346-a390-30d3039ab86f" />
 
